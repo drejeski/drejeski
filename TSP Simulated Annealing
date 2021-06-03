@@ -9,7 +9,6 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import random
 import numpy as np
-import math
 
 
 distance=pd.read_csv(r"C:\Users\David\Documents\Grad School\Kstate\ISME 882\distance.csv")
